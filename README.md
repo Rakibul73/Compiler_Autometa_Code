@@ -39,6 +39,18 @@ py -3.11 -m pip install numpy
 <br/>
 
 ### Lab 05: Write a program to recognize blank, white space, tab, and newline.
- [Jupyter File (Rectangular Shape)](./Masud_Sir/) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Circle Shape)](./Masud_Sir/) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Any Shape)](./Masud_Sir/)
+ [Jupyter File (Rectangular Shape)](./Masud_Sir/recognize_blank_whitespace_tab_newline.ipynb) 
+<br/>
+
+### Lab 06: Write a program to simulate lexical analyzer for validating operators.
+ [Jupyter File (With Regex)](./Masud_Sir/lexical_analyzer_validate_operators.ipynb)
+<br/>
+
+### Extra Lab: Write a program to simulate lexical analyzer & make tokens.
+ [Jupyter File (With Regex)](./Masud_Sir/lexeical_analyzer_making_token.ipynb)
+<br/>
+
+### Lab 07: Write a program for constructing of LL (1) parsing. 
+ [Jupyter File (With Regex)](./Masud_Sir/lexeical_analyzer_making_token.ipynb)
 
 <hr/>
