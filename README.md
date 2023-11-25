@@ -55,6 +55,20 @@ py -3.11 -m pip install numpy
 <br/>
 
 ### Lab 09: Write a program for constructing recursive descent parsing.
- [Jupyter File (With Regex)](./Masud_Sir/)
+ [Jupyter File (With Regex)](./Masud_Sir/recursive_descent_parsing.ipynb)
+<br/>
+
+### Extra Lab: Write a program for lexical analyzer + recursive descent parsing.
+ [Jupyter File (With Regex)](./Masud_Sir/lexical_analyzer_plus_recursive_decent_parser.ipynb)
+<br/>
+
+### Lab 10: Design a Predictive Parser for the following grammar
+    G: {E-> TE’, E’ -> +TE’ | 0, T-> FT’, T’-> *FT’|0, F-> (E) | id}.
+ [Jupyter File (With Regex)](./Masud_Sir/predictive_parser.ipynb)
+<br/>
+
+### Lab 10: Design a Predictive Parser for the following grammar
+    G: {E-> TE’, E’ -> +TE’ | 0, T-> FT’, T’-> *FT’|0, F-> (E) | id}.
+ [Jupyter File (With Regex)](./Masud_Sir/predictive_parser.ipynb)
 
 <hr/>
