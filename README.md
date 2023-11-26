@@ -51,7 +51,7 @@ py -3.11 -m pip install numpy
 <br/>
 
 ### Lab 07: Write a program for constructing of LL (1) parsing. 
- [Jupyter File (With Regex)](./Masud_Sir/lexeical_analyzer_making_token.ipynb)
+ [Jupyter File](./Masud_Sir/constructing_LL(1)_parsing.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Alternative)](./Masud_Sir/constructing_LL(1)_parsing_Alternative.ipynb)
 <br/>
 
 ### Lab 09: Write a program for constructing recursive descent parsing.
@@ -60,11 +60,6 @@ py -3.11 -m pip install numpy
 
 ### Extra Lab: Write a program for lexical analyzer + recursive descent parsing.
  [Jupyter File (With Regex)](./Masud_Sir/lexical_analyzer_plus_recursive_decent_parser.ipynb)
-<br/>
-
-### Lab 10: Design a Predictive Parser for the following grammar
-    G: {E-> TE’, E’ -> +TE’ | 0, T-> FT’, T’-> *FT’|0, F-> (E) | id}.
- [Jupyter File (With Regex)](./Masud_Sir/predictive_parser.ipynb)
 <br/>
 
 ### Lab 10: Design a Predictive Parser for the following grammar
@@ -95,5 +90,10 @@ py -3.11 -m pip install numpy
 
 ### Lab 15: Write a program to construct SLR parser for a given augmented Grammar.
  [Jupyter File](./Masud_Sir/slr_parser.ipynb)
+<br/>
+<br/>
+
+### Extra Lab: Write a program to detect lexemes from the input statement position = initial + rate * 60 Implement a program for detecting tokens from the input "int a = b + 10c + 7" and a token is either keyword, an identifier, a constant, a string literal, or a symbol
+ [Jupyter File](./Masud_Sir/detect_lexemes_token_from_input.ipynb)
 <br/>
 <hr/>
