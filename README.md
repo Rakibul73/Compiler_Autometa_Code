@@ -22,7 +22,7 @@ py -3.11 -m pip install numpy
 <br/>
 
 ### Lab 01: Write a program to identify whether a given line is a comment or not.
- [Jupyter File (Identify Python Comment)](./Masud_Sir/identify_python_comment.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Identify C Comment with Regex)](./Masud_Sir//identify_c_comment_with_regex.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Identify C Comment without Regex)](./Masud_Sir/identify_c_comment_without_regex.ipynb)
+ [Jupyter File (Identify Python Comment)](./Masud_Sir/identify_python_comment.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Identify C Comment with Regex)](./Masud_Sir/identify_c_comment_with_regex.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Identify C Comment without Regex)](./Masud_Sir/identify_c_comment_without_regex.ipynb)
 
 <br/>
 
@@ -70,5 +70,20 @@ py -3.11 -m pip install numpy
 ### Lab 10: Design a Predictive Parser for the following grammar
     G: {E-> TE’, E’ -> +TE’ | 0, T-> FT’, T’-> *FT’|0, F-> (E) | id}.
  [Jupyter File (With Regex)](./Masud_Sir/predictive_parser.ipynb)
+<br/>
 
+### Lab 11: Write a program to calculate First and Follow sets of given grammar.
+    G: {E-> TE’, E’ -> +TE’ | 0, T-> FT’, T’-> *FT’|0, F-> (E) | id}.
+ [Jupyter File](./Masud_Sir/first_follow_sets.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Alternative)](./Masud_Sir/First_Follow_sets_Alternative.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [CPP File](./Masud_Sir/first_follow_sets.cpp)
+<br/>
+
+### Lab 12: Write a program to implement top-down parsing for a given Grammar.
+    G: {E-> TE’, E’ -> +TE’ | 0, T-> FT’, T’-> *FT’|0, F-> (E) | id}.
+ [Jupyter File](./Masud_Sir/top_down_parsing.ipynb)
+<br/>
+
+### Lab 13: Write a Program to implement bottom-up parsing for a given Grammar.
+    G: {E-> TE’, E’ -> +TE’ | 0, T-> FT’, T’-> *FT’|0, F-> (E) | id}.
+ [Jupyter File](./Masud_Sir/bottom_up_parsing.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [CPP File](./Masud_Sir/bottom_up_parsing.cpp)
+<br/>
 <hr/>
