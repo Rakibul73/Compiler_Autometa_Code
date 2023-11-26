@@ -86,4 +86,14 @@ py -3.11 -m pip install numpy
     G: {E-> TE’, E’ -> +TE’ | 0, T-> FT’, T’-> *FT’|0, F-> (E) | id}.
  [Jupyter File](./Masud_Sir/bottom_up_parsing.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [CPP File](./Masud_Sir/bottom_up_parsing.cpp)
 <br/>
+<br/>
+
+### Lab 14: Write a Program to construct LR (0) parser for a given augmented Grammar.
+ [Jupyter File](./Masud_Sir/lr(0)_parser.ipynb)
+<br/>
+<br/>
+
+### Lab 15: Write a program to construct SLR parser for a given augmented Grammar.
+ [Jupyter File](./Masud_Sir/slr_parser.ipynb)
+<br/>
 <hr/>
