@@ -94,6 +94,16 @@ py -3.11 -m pip install numpy
 <br/>
 
 ### Extra Lab: Write a program to detect lexemes from the input statement position = initial + rate * 60 Implement a program for detecting tokens from the input "int a = b + 10c + 7" and a token is either keyword, an identifier, a constant, a string literal, or a symbol
- [Jupyter File](./Masud_Sir/detect_lexemes_token_from_input.ipynb)
+ [Jupyter File](./Extra/detect_lexemes_token_from_input.ipynb)
+<br/>
+
+### Extra Lab: Write a program to convert infix into prefix , postfix & 3 address code
+ [Jupyter File](./Extra/infix_to_prefix_postfix_three_address_code.ipynb)
+<br/>
+<br/>
+
+### Extra Lab: Write a program to generate the three-address code from a source-language expression: 
+    a = (-c*b) + (-c*d).
+ [Jupyter File](./Extra/generate_three_address_code.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [C File](./Extra/generate_three_address_code.c)
 <br/>
 <hr/>
