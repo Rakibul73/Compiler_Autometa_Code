@@ -39,7 +39,7 @@ py -3.11 -m pip install numpy
 <br/>
 
 ### Lab 05: Write a program to recognize blank, white space, tab, and newline.
- [Jupyter File (Rectangular Shape)](./Masud_Sir/recognize_blank_whitespace_tab_newline.ipynb) 
+ [Jupyter File](./Masud_Sir/recognize_blank_whitespace_tab_newline.ipynb) 
 <br/>
 
 ### Lab 06: Write a program to simulate lexical analyzer for validating operators.
