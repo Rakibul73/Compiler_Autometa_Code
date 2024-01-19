@@ -107,3 +107,20 @@ py -3.11 -m pip install numpy
  [Jupyter File](./Extra/generate_three_address_code.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [C File](./Extra/generate_three_address_code.c)
 <br/>
 <hr/>
+
+
+## `Mahabub Sir Lab ----------------------------`
+<br/>
+
+### Lab 01: NFA for any transition diagram.
+ [Jupyter File](./Mahabub_Sir/nfa.ipynb)
+
+<br/>
+
+### Lab 02: DFA for any transition.
+ [Jupyter File](./Mahabub_Sir/dfa.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [ALternative from NOYON](./Mahabub_Sir/alternative_dfa.py)
+<br/>
+
+### Lab 03: NFA to DFA converter.
+ [Jupyter File](./Mahabub_Sir/nfa_to_dfa.ipynb)
+<br/>
