@@ -1,0 +1,11 @@
+https://github.com/PratikSavla/compiler-design-lab?tab=readme-ov-file
+
+https://github.com/lewiuberg/visual-automata
+
+https://github.com/whitemech/pythomata
+
+https://github.com/rohaquinlop/automathon
+
+https://github.com/AZHenley/teenytinycompiler
+
+https://austinhenley.com/blog/teenytinycompiler1.html
